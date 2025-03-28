@@ -198,7 +198,7 @@ class _NewPostScreenState extends State<NewPostScreen> {
                     print("Post Clicked");
                   },
                   style: ElevatedButton.styleFrom(
-                    backgroundColor: Colors.purple,
+                    backgroundColor: Colors.grey[300],
                   ),
                   child: Text("Post"),
                 ),
